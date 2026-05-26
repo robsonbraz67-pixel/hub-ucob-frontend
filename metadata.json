@@ -1,0 +1,6 @@
+{
+  "name": "Hub UCOB Analytics",
+  "description": "Dashboard interativo de análise de vendas, metas, cotas e segmentação de colportores para o Hub UCOB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
